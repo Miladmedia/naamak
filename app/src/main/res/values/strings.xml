@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نامک</string>
+    <string name="default_sms_banner_title">نامک پیام‌رسان پیش‌فرض نیست</string>
+    <string name="default_sms_banner_desc">برای ارسال، دریافت و مدیریت کامل پیامک‌ها، نامک را به‌عنوان پیش‌فرض تنظیم کنید.</string>
+    <string name="set_as_default">تنظیم به‌عنوان پیش‌فرض</string>
+</resources>
